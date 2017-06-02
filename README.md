@@ -2,3 +2,4 @@
 
 **Modelagem de classes em Java do jogo Counter Strike Global Offensive**
 
+![modelagem](modelagem.png)
