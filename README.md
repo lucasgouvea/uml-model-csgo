@@ -2,4 +2,4 @@
 
 **Modelagem e implementação de classes em Java do jogo Counter Strike Global Offensive**
 
-![modelagem](m.png)
+![modelagem](diagrama.png)
